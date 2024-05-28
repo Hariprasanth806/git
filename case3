@@ -5,3 +5,6 @@ th save or commit the file
 now the file is commited
 push the file in git 
 "git push origin main"
+to add many file to git
+"git add."
+insert->add->commit->push
