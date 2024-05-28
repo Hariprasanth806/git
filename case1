@@ -3,3 +3,10 @@ create a new file name
 add the contents in the file
 must have enter the commit message
 here commit means saving the file
+create a new folder in desktop
+open that folder in vs code
+now how to connect the git repo to that folder
+steps
+To get file from git to vs code
+  git clone "repo link" 
+link is known as origin
