@@ -1,0 +1,7 @@
+create the file in vs code and add the file to git
+"add file name"
+th save or commit the file
+"git commit -m "enter any words""
+now the file is commited
+push the file in git 
+"git push origin main"
