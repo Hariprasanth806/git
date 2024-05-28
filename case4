@@ -1,0 +1,6 @@
+to delete any file from vscode and updatee in git 
+first delete that file in vs code 
+and add file name in vs code
+"git add deleted file name"
+git commit -m"deleted file"
+git push origin main
